@@ -3,38 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-<style>
-    body{
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;}
-.plus{
-    border: 1px;
-    width: 80%;
-    border-radius: 10px;
-    padding: 10px;
-    background-color: rgb(240, 230, 178);
-}
-  .plus p {
-    width:100%;
-  }
-. amount {
-display: flex;
-align-items: center;
-justify-content: space-width:100%;  width:100%;
-}
-h1{
-    font-size: 50px;
-}
-button{
-    padding: 10px;
-    width: 95px;
-    border-radius:25px;
-    border: 1px solid;
-}
- .list { 
-    text-decoration:none;
-  }
-</style>
+    <title>
+Simple HTML Card Design
+</title>
 </head>
 <body>
     <section class="plus">
@@ -43,14 +14,10 @@ button{
     connected apps to manage<br>
     their own workflows</p>
     <br>
-    <br>
-    <br>
-    <div class="amount">
        <p> <strong>$10</strong>
-        
-            per seat /month<br>
-            billed annually</p>
-    </div>
+            per seat/month<br>
+            billed annually
+</p>
 <button>Try for free</button>
 <p>
 Everything in Free, plus:
